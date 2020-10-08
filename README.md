@@ -6,8 +6,11 @@ I am a learning developer, learning new languages and managing my social life.
 
 # Languages i've learned:
 
-![Python](https://github.com/DwifteJB/DwifteJB/raw/main/E542F508-4FCC-41D0-9A2E-16A39CF4F893.png=150x)
+<div style="text-align:center">
+<img src="https://github.com/DwifteJB/DwifteJB/raw/main/E542F508-4FCC-41D0-9A2E-16A39CF4F893.png=150x" alt="py" height="100px" width="100px"/>
+
 
 Python 3
 
 ![Bash]()
+</div>
