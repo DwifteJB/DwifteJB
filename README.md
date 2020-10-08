@@ -6,11 +6,8 @@ I am a learning developer, learning new languages and managing my social life.
 
 # Languages i've learned:
 
-<p align="center">
-<img src="https://github.com/DwifteJB/DwifteJB/raw/main/E542F508-4FCC-41D0-9A2E-16A39CF4F893.png" alt="py" height="100px" width="100px"/>
+<p align="center"><img src="https://github.com/DwifteJB/DwifteJB/raw/main/E542F508-4FCC-41D0-9A2E-16A39CF4F893.png" alt="py" height="100px" width="100px"/></p>
+<span align="center">Python 3</span>
 
+![Bash]
 
-Python 3
-
-![Bash]()
-</p>
