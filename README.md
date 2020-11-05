@@ -1,17 +1,8 @@
-# Hello! My name is DwifteJB.
+<h2 align="center">DwifteJB</h2>
 
-I am a learning developer, learning new languages and managing my social life.
+* 🔥 I'm learning *Python, php, css, html and bash*
 
-![Github Statistics](https://github-readme-stats.vercel.app/api?username=DwifteJB&show_icons=true&theme=dark)
+* 👏 I have made discord bots and selfbots
+* 🎉 I work with [CrafterPika](https://GitHub.com/CrafterPika)
 
-## Languages i've learned:
-
-<p align="center"><img src="https://github.com/DwifteJB/DwifteJB/raw/main/E542F508-4FCC-41D0-9A2E-16A39CF4F893.png" alt="py" height="100px" width="100px"/></p>
-<p align="center">Python 3</p>
-
-<p align="center"><img src="https://github.com/DwifteJB/DwifteJB/raw/main/3E1D7A8A-CAA3-4522-9051-061677F8F067.png" alt="linux tech" height="130px" width="125px"/></p>
-<p align="center">Bash</p>
-
-### Setup
-
-At the moment, im actually coding on an iPhone, I'm planning on getting a pc with the <a href="https://manjaro.org">Manjaro</a> Distro!
+<p align  = "center"><img src = "https://github-readme-stats.vercel.app/api?username=dwiftejb&count_private=true&count_forked=true&show_icons=true&&theme=algolia"> </p>
