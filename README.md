@@ -6,3 +6,4 @@
 * 🎉 I work with [CrafterPika](https://GitHub.com/CrafterPika)
 
 <p align  = "center"><img src = "https://github-readme-stats.vercel.app/api?username=dwiftejb&count_private=true&count_forked=true&show_icons=true&&theme=algolia"> </p>
+<p align  = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwifteJB"></p>
