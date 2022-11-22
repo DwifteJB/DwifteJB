@@ -1,6 +1,9 @@
 
 <div align="center">
 <h1>Dwifte's Github Page</h1>
+    
+![](https://komarev.com/ghpvc/?username=DwifteJB&color=green)
+    
 </div>
 
 ```js
