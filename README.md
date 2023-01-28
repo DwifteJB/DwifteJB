@@ -10,7 +10,7 @@
 
 class Dwifte {
     constructor() {
-        this.FavouriteProjects = ["Packager", "RoGLSuite", "MangaBot"]
+        this.CurrentlyLearning="LUA"
         this.Email = "dwifte@outlook.com"
         this.Stats = {
             health: {
@@ -22,18 +22,7 @@ class Dwifte {
                 current:40
             },
         }
-        this.FavouriteSnack = "Skittles"
-    }
-    sayCatchPhrase() {
-        let r = Math.floor(Math.random() * (2+2))
-        switch (r) {
-            case 0:
-                return "I hate javascript"
-            case 1:
-                return "I use arch btw"
-            case 2:
-                return "Javascript is better"
-        }
+        this.Projects=["Star Wars Game","JoJo Game"]
     }
 }
 
