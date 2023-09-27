@@ -10,19 +10,7 @@
 
 class Dwifte {
     constructor() {
-        this.CurrentlyLearning="LUA"
         this.Email = "dwifte@outlook.com"
-        this.Stats = {
-            health: {
-                max: 100,
-                current:30
-            },
-            hunger: {
-                max: 100,
-                current:40
-            },
-        }
-        this.Projects=["Star Wars Game","JoJo Game"]
     }
 }
 
