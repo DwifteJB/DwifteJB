@@ -23,7 +23,9 @@ class Dwifte {
   </h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,py,go" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,lua,cs" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=godot,php,py,go">
   </a>
 </div>
 
