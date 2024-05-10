@@ -6,18 +6,6 @@
     
 </div>
 
-```js
-
-class Dwifte {
-    constructor() {
-        this.Email = "dwifte@outlook.com"
-    }
-}
-
-```
-
----
-
 <h3 align="center">
     Languages
   </h3>
