@@ -1,21 +1,5 @@
-
-<div align="center">
-<h1>Dwifte's Github Page</h1>
-    
+peak
 ![](https://komarev.com/ghpvc/?username=DwifteJB&color=green)
-    
-</div>
-
-<h3 align="center">
-    Languages
-  </h3>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,lua,cs" />
-    <br />
-    <img src="https://skillicons.dev/icons?i=godot,php,py,go">
-  </a>
-</div>
 
 ---
 
