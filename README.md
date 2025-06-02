@@ -4,7 +4,6 @@
   <div align="center" style={
     flex: "1"
   }>
-    <img src="https://img.shields.io/endpoint?url=https://waka.hackclub.com/api/compat/shields/v1/U081PFNUTDM/interval:all_time&label=All%20time&color=blue" />
   
   <img src="https://komarev.com/ghpvc/?username=DwifteJB&color=green" />
   </div>
@@ -18,9 +17,6 @@
 
 <div align="center">
   <a href="https://rmfosho.me">rmfosho.me</a>
-
-  
-
   </div>
   
 
