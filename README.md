@@ -15,11 +15,14 @@
   </div>
 
   <br />
+
   
   <img src="https://komarev.com/ghpvc/?username=DwifteJB&color=green" />
   </div>
 
   <img src="https://github.com/DwifteJB/DwifteJB/blob/main/pokemon.gif?raw=true" />
   <img src="https://media1.tenor.com/m/zN6kaZ1kjr0AAAAd/hatsune-miku-vocaloid.gif" />
+  <img src="https://github.com/DwifteJB/DwifteJB/blob/main/ilovegolang.gif?raw=true" />
+
 </div>
 
